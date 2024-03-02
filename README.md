@@ -3,7 +3,5 @@
 
 ## Time complexity:
 R - radius of outline
-if R - const:
-  O(1)
-if R variable:
-  O(R*R)
+- if R *const*: **O(1)**
+- if R *variable*: **O(R*R)**
